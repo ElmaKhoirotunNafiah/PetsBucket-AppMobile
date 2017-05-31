@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.3.1_a6ab7af586c5e0ef10aefef99d40e2774ce87494\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_d2bd3ac14ea2148b72507831d6beafe7d6a63433\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_83d5f626cf4314235b6b7af3f2aa189785b7ea52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_f66d4ba0426c457efe0b752bae5600675d992d4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_6c82071cfb2be648a1da5d89df1dda32db6926b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\volley-integration\1.4.0\aa52998c139a242251bd52ec4e2ee55e0cfbf055\volley-integration-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa52998c139a242251bd52ec4e2ee55e0cfbf055">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\volley-integration-1.4.0_54062d32d65fe1ce7f450374d1d86a2884e02cb6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_28780018f208be5d26533b75913d51f68437c8aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4b4b98793aa4483535c44a2bc77553f09c2ff74">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_514fc0f6f153d1e34b38ebb66328406f16007877\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c528f214caa8064b3b3794ae3dd28d364c1a832">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_91d88188b06f96834aa9380e563afbe5eecd3045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.mcxiaoke.volley\library\1.0.8\ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2\library-1.0.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec0f15c77ddd390e5ac514ac72ebbb9f2e0e31e2">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-1.0.8_0bc92377a325403165611ba2c31e98684a4718dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_c130d82ff86c25a22fbdd7da64be22c1c568fb5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.0.0_d4025d0bb183c9b0f504b2c6309b30ef722d74eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.3.1_61c47b5a50bd14d10bfbea6a706f19c1864158fe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.3.1_054c8d7c1ef5d8dafaa343a6bb0f505154f928f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_19d38b40236cece6e217ad6ced94411cafd8e924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_616bb9091fadeccbcc0d53eb96d31047966b171b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_14fea10bb4f56506e4a20ad3a1ec469ff77b612d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_c0a2fb7358c79fcce51debb56fcdc2151e7f72fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Sourcetree\Pets_Bucket\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_00adc80dff492114e45835682aa0a4c528f90fa6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="E:\Sourcetree\Pets_Bucket\app\build\intermediates\transforms\dex\debug\folders\1000\10\glide-3.7.0_08d5a803668fb4dee870025f34878e0472f479c7\classes.dex" />
+    </item>
+
+</items>
